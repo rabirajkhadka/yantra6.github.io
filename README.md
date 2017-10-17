@@ -2,4 +2,4 @@
 Yantra - Art | Tech | Science
 
 Website for Yantra 6.0 "Technology for Change"
-![Yantra Website](/img/yantra_website.jpg)
+![](/static/img/yantra_website.jpg)
