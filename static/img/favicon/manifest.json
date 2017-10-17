@@ -1,0 +1,29 @@
+{
+ "name": "App",
+ "icons": [
+  {
+   "src": "\/favicon_ranlogo_32x32.png",
+   "sizes": "32x32",
+   "type": "image\/png",
+   "density": "0.75"
+  },
+  {
+   "src": "\/favicon_ranlogo_96x96.png",
+   "sizes": "96x96",
+   "type": "image\/png",
+   "density": "2.0"
+  },
+  {
+   "src": "\/favicon_ranlogo_192x192.png",
+   "sizes": "192x192",
+   "type": "image\/png",
+   "density": "3.0"
+  },
+  {
+   "src": "\/favicon_ranlogo_270x270.png",
+   "sizes": "270x270",
+   "type": "image\/png",
+   "density": "4.0"
+  }
+ ]
+}
